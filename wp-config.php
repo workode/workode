@@ -54,8 +54,8 @@ define('DB_NAME', 'mytyp380_workode');
     /** O tipo de collate do banco de dados. Não altere isso se tiver dúvidas. */
     define('DB_COLLATE', '');
 
-define('WP_HOME','http://workode.com');
-define('WP_SITEURL','http://workode.com');
+define('WP_HOME','http://workode.com/workode');
+define('WP_SITEURL','http://workode.com/workode');
 }
 
 define('FS_METHOD', 'direct');
