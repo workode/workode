@@ -1,4 +1,5 @@
 <?php
+// Start branch
 /**
  * As configurações básicas do WordPress.
  *
