@@ -1,0 +1,7 @@
+server_name:
+    host: "ftp.workode.com"
+    user: "ftpuser"
+    pass: "www.ftp.u$er"
+    path:
+        local: "deploy/"
+        remote: "public_html/workode/workode/"
