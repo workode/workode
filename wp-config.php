@@ -37,7 +37,6 @@ define('DB_COLLATE', '');
 
 define('WP_HOME','http://localhost/workode/workode');
 define('WP_SITEURL','http://localhost/workode/workode');
-
 }else{
 define('DB_NAME', 'mytyp380_workode');
 
