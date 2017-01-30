@@ -16,16 +16,16 @@
 if ( $_SERVER['SERVER_ADDR'] == '127.0.0.1' ) {
 // ** Configurações do MySQL - Você pode pegar essas informações com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
-define('DB_NAME', 'workode');
+define('DB_NAME', 'mytyp380_workode');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'root');
+define('DB_USER', 'mytyp380_admin');
 
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', '123456');
+define('DB_PASSWORD', 'admin123');
 
 /** nome do host do MySQL */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '216.172.172.70');
 
 /** Conjunto de caracteres do banco de dados a ser usado na criação das tabelas. */
 define('DB_CHARSET', 'utf8');
