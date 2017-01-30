@@ -1,6 +1,6 @@
 server_name:
     host: "ftp.workode.com"
-    user: "ftpuser"
+    user: "ftpuser@workode.com"
     pass: "www.ftp.u$er"
     path:
         local: "deploy/"
